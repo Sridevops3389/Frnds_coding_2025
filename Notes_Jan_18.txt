@@ -1,0 +1,6 @@
+git init
+git clone
+directory or folder create
+git add.txt
+git commit -m "comment"
+git push
